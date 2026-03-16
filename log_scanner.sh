@@ -1,4 +1,3 @@
-# Defining the Interpreter
 #!/bin/bash
 
 directory="/var/log/"
